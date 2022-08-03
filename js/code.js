@@ -1,18 +1,17 @@
-// Funktion für zufälligen Münzwurf
+// Function for random Coinflip
 
 function coinFlip() {
-var coin = Math.random();
+  var coin = Math.random();
 
-    coin = (coin * 100) + 1;
+  coin = (coin * 100) + 1;
 
-    coin = Math.floor(coin);
+  coin = Math.floor(coin);
 
   //  console.log(coin);
 
-    if (coin <= 50) {
+  if (coin <= 50) {
     alert("Heads!/Kopf!");
-  }
-  else {
+  } else {
     alert("Tails!/Zahl!");
   }
 }
