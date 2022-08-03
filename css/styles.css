@@ -16,24 +16,21 @@ h1 {
   font-size: 3.5rem;
 }
 
-
 button {
   background-color: #F75D82;
   color: #fff;
   width: 15rem;
   height: 3.5rem;
+}
 
-  }
 footer {
   font-family: 'Montserrat';
 }
-
 
 button:hover {
   background-color: #faa0b5;
   transition: 0.5s;
 }
-
 
 .footline {
   background-color: #5DF7D1;
