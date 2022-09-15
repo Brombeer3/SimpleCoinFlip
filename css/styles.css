@@ -2,29 +2,36 @@
   margin: 100px;
   font-size: 5rem;
   background-color: #fff;
-  color: #5DF7D1;
+  color: #5df7d1;
   text-align: center;
 }
 
 body {
   text-align: center;
-  font-family: 'Montserrat';
+  font-family: "Montserrat";
 }
 
 h1 {
-  font-family: 'Courgette';
+  font-family: "Courgette";
   font-size: 3.5rem;
 }
 
+h2 {
+  margin-top: 100px;
+  font-family: "Montserrat";
+  color: #f75d82;
+  text-align: center;
+}
+
 button {
-  background-color: #F75D82;
+  background-color: #f75d82;
   color: #fff;
   width: 15rem;
   height: 3.5rem;
 }
 
 footer {
-  font-family: 'Montserrat';
+  font-family: "Montserrat";
 }
 
 button:hover {
@@ -33,11 +40,11 @@ button:hover {
 }
 
 .footline {
-  background-color: #5DF7D1;
+  background-color: #5df7d1;
   position: fixed;
   bottom: 0%;
   width: 100%;
-  color: #F75D82;
+  color: #f75d82;
 }
 
 .custom-button {
