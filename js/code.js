@@ -15,7 +15,3 @@ function coinFlip() {
     $("h2").text("Tails!");
   }
 }
-
-//$("h2").click(function () {
-//$("h2").text("Heads!");
-//});
